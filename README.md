@@ -30,7 +30,7 @@ For more animations and code, check out my GitHub.
 ---
 ### Tab Bar
 ![](Gifs/TabBar.gif)
-#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/TabBar)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/TabBar)
 ---
 ### Twitter
 ![](Gifs/twitter.gif)
