@@ -1,9 +1,9 @@
 //
-//  LoadingScreen.swift
+//  CreditCard.swift
 //  InstaPosts
 //
-//  Created by InnAppsCoding on 28/07/2020.
-//  Copyright © 2020 InnAppsCoding. All rights reserved.
+//  Created by Chameera De Silva on 10/02/2021.
+//  Copyright © 2021 Chameera De. All rights reserved.
 //
 
 import SwiftUI

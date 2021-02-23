@@ -1,9 +1,10 @@
 //
-//  ParticlesEmitter.swift
-//  SwiftUI-Particles
+//  CreditCard.swift
+//  InstaPosts
 //
-//  Created by Arthur Guibert on 28/10/2019.
-//  Copyright © 2019 Arthur Guibert. All rights reserved.
+//  Created by Chameera De Silva on 10/02/2021.
+//  Copyright © 2021 Chameera De. All rights reserved.
+
 //
 
 import SwiftUI
