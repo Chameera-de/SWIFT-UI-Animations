@@ -34,49 +34,49 @@ For more animations and code, check out my GitHub.
 ---
 ### Twitter
 ![](Gifs/twitter.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ShareTwitter)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/ShareTwitter)
 ---
 ### CreditCardFlip
 ![](Gifs/CreditCardFlip.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/CreditCardFlip)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/CreditCardFlip)
 ---
 ### DownloadButton
 ![](Gifs/DownloadButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Download%20Button)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Download%20Button)
 ---
 ### ShareButton
 ![](Gifs/ShareButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Share%20Button)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Share%20Button)
 ---
 ### Menu
 ![](Gifs/Menu.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Menu)
 ---
 ### Slider
 ![](Gifs/Slider.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Slider)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Slider)
 ---
 ### Reddit
 ![](Gifs/reddit.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Reddit)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Reddit)
 ---
 ### HeartLikeButton
 ![](Gifs/HeartButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/HeartButton)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/HeartButton)
 ---
 ### Like Button
 ![](Gifs/LikeButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LikeButton)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/LikeButton)
 ---
 ### Star Rating
 ![](Gifs/StarRating.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StarRating)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/StarRating)
 ---
 ### Darkmode Button
 ![](Gifs/ToggleButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/DarkmodeToggle)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/DarkmodeToggle)
 ---
 ### Loading Screen
 ![](Gifs/LoadingScreen.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LoadingScreen)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/LoadingScreen)
 ---
