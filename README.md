@@ -10,27 +10,27 @@ For more animations and code, check out my GitHub.
 
 ### Halfpipe
 ![](Gifs/halfpipe.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/HalfpipeLoading)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/HalfpipeLoading)
 ---
 ### Sticker Darkmode Button
 ![](Gifs/darkmode.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StickerToggle)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/DarkmodeToggle)
 ---
 ### Radar
 ![](Gifs/Radar.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Radar)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Radar)
 ---
 ### WiFi
 ![](Gifs/Wifi.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Wifi)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/Wifi)
 ---
 ### DNA Loading
 ![](Gifs/DNALoading.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/DNALoading)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/DNALoading)
 ---
 ### Tab Bar
 ![](Gifs/TabBar.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/TabBar)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/TabBar)
 ---
 ### Twitter
 ![](Gifs/twitter.gif)
