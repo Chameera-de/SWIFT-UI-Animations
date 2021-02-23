@@ -26,7 +26,7 @@ For more animations and code, check out my GitHub.
 ---
 ### DNA Loading
 ![](Gifs/DNALoading.gif)
-#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/DNALoading)
+#### [Link to code](https://github.com/Chameera-de/SWIFT-UI-Animations/tree/main/Animations/DNALoading)
 ---
 ### Tab Bar
 ![](Gifs/TabBar.gif)
